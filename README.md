@@ -35,7 +35,7 @@
     | PUSHPLUS_TOKEN | [Pushplus](http://www.pushplus.plus/) 官网申请，支持微信消息推送 | 否 |
    |   WEIXIN_WEBHOOK | 企业微信机器人WEBHOOK | 否 |
 
-4. 仓库 -> Actions, 检查Workflows并启用。
+4. 仓库 -> Actions, 检查Workflows并启用！
 
 ## 预览
 
