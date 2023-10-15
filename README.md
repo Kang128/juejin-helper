@@ -37,6 +37,7 @@
    |   WEIXIN_WEBHOOK | 企业微信机器人WEBHOOK | 否 |
 
 4. 仓库 -> Actions, 检查Workflows并启用！
+5. 
 
 ## 预览
 
