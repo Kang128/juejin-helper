@@ -29,7 +29,6 @@ jobs:
       - name: Run Project
         run: |
           cd workflows
-          npm
           npm run checkin
 
 #  SeaGold:
